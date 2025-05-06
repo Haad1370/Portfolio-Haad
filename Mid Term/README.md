@@ -74,7 +74,7 @@ expo start
 ## 🎥 Demo
 
 Watch the full demo here:  
-🔗 [YouTube Short](https://youtube.com/shorts/Y93-si7HlGQ?feature=share)
+🔗 [YouTube Short](https://youtube.com/shorts/iUZ7w-KeOEU?si=OVm2UBWMPwB3KZFD)
 
 ---
 ## 📱 Running the App
@@ -130,12 +130,12 @@ See the [LICENSE](./LICENSE) file for details.
 ## 📥 Download the Project
 
 Want a local copy?  
-[Click here to download the ZIP](https://github.com/yourusername/job-listing-app/archive/refs/heads/main.zip)
+[Click here to download the ZIP](https://github.com/haad1370/job-listing-app/archive/refs/heads/main.zip)
 
 ---
 
 ## 🙋‍♂️ Need Help?
 
-For setup issues or questions, feel free to [open an issue](https://github.com/yourusername/job-listing-app/issues) or reach out directly.
+For setup issues or questions, feel free to [open an issue](https://github.com/haad1370/job-listing-app/issues) or reach out directly.
 
 ---
