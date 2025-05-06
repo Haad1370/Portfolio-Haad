@@ -20,18 +20,7 @@ A full-featured **Job Listing App** built with **React Native**, **Node.js**, an
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Screen  
-![Login](./Login.jpeg)
-
-### 🏠 Home Screen  
-![Home](./Home.jpeg)
-
-### 📋 Job Details Screen  
-![Details](./Details.jpeg)
-
----
 
 ## 🚀 Quick Start
 
@@ -41,6 +30,7 @@ A full-featured **Job Listing App** built with **React Native**, **Node.js**, an
 - [Expo CLI](https://docs.expo.dev/workflow/expo-cli/)
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) or local MongoDB instance
 - Firebase Project with Google Sign-In enabled
+- 
 
 ---
 
@@ -81,7 +71,12 @@ expo start
 ```
 
 ---
+## 🎥 Demo
 
+Watch the full demo here:  
+🔗 [YouTube Short](https://youtube.com/shorts/Y93-si7HlGQ?feature=share)
+
+---
 ## 📱 Running the App
 
 Scan the QR code below using the **Expo Go** app on your mobile device:
@@ -92,12 +87,7 @@ Scan the QR code below using the **Expo Go** app on your mobile device:
 
 ---
 
-## 🎥 Demo
 
-Watch the full demo here:  
-🔗 [YouTube Short](https://youtube.com/shorts/Y93-si7HlGQ?feature=share)
-
----
 
 ## 📁 Folder Structure
 
