@@ -29,7 +29,7 @@ Edit
 │   └── CartScreen.js
 🎨 Figma Design
 This UI was crafted based on a Figma design.
-💡 [https://www.figma.com/proto/FDi08qXvORyebj1CYZOSus/E-Commerce-Design-Tanveer?node-id=1-2&starting-point-node-id=1%3A2&t=0X2acHMglKbHvP2B-1]
+💡 [https://www.figma.com/proto/qogS2Nj12A6X0sPSjPFUAb/E-commerce-APP?node-id=11-2&p=f&t=SaythxGVDtPqwuVB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A2]
 
 🚀 Getting Started
 bash
