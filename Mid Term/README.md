@@ -34,7 +34,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/job-listing-app.git
-cd job-listing-app
+cd jobApp
 ```
 
 Install frontend dependencies:
