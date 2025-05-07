@@ -71,15 +71,6 @@ Watch the full demo here:
 🔗 [YouTube Short](https://youtube.com/shorts/iUZ7w-KeOEU?si=OVm2UBWMPwB3KZFD)
 
 ---
-## 📱 Running the App
-
-Scan the QR code below using the **Expo Go** app on your mobile device:
-
-### 🔳 App QR Code  
-**Filename**: `mid-qr.png`  
-![QR Code - mid-qr.png](./mid-qr.png)
-
----
 
 
 
