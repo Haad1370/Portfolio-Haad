@@ -1,6 +1,5 @@
-# 💼 Job Listing App
+#  Job Listing App
 
-A full-featured **Job Listing App** built with **React Native**, **Node.js**, and **MongoDB**. This app demonstrates social authentication using **Google Login via Firebase**, data storage with MongoDB, and real-time job fetching from an external API. It's a comprehensive solution ideal for learning full-stack mobile development.
 
 ![React Native](https://img.shields.io/badge/React_Native-v0.73.0-blue.svg?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg?style=flat&logo=node.js)
@@ -10,7 +9,7 @@ A full-featured **Job Listing App** built with **React Native**, **Node.js**, an
 
 ---
 
-## ✨ Features
+##
 
 - 🔐 **Google Login** – Firebase-based social authentication.
 - 📄 **Job Listing Screen** – View all jobs from MongoDB.
