@@ -1,11 +1,6 @@
 #  Job Listing App
 
 
-![React Native](https://img.shields.io/badge/React_Native-v0.73.0-blue.svg?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-v6.x-success.svg?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-Auth-orange.svg?style=flat&logo=firebase)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
