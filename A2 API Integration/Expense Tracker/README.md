@@ -32,6 +32,12 @@ A beautifully designed **Expense Tracker mobile app** built with **React Native*
 ![Report Screen](./Report.jpeg)
 
 ---
+## 🎥 Demo
+
+Watch the app in action:  
+🔗 [Watch the video here](https://youtube.com/shorts/gd1U67NEA2U)
+
+---
 
 ## 🚀 Quick Start
 
@@ -81,12 +87,7 @@ Scan this QR code to open the app instantly:
 
 ---
 
-## 🎥 Demo
 
-Watch the app in action:  
-🔗 [Watch the video here](https://youtube.com/shorts/gd1U67NEA2U)
-
----
 
 ## 📁 Folder Structure
 
@@ -117,13 +118,5 @@ See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 📥 Download the Project
 
-Prefer downloading directly?  
-[Click here to download the zipped project](https://github.com/Tanveer-hub570/My-Portfolio/A2-API-Integration/expense-tracker-app/archive/refs/heads/main.zip)
 
----
-
-## 🙋‍♂️ Need Help?
-
-If you have any questions or need help setting up the project, feel free to [open an issue](https://github.com/Tanveer-hub570/expense-tracker-app/issues) or message me directly!
