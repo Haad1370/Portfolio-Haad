@@ -18,16 +18,7 @@ A beautifully designed **eCommerce mobile app** built with **React Native** usin
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Screen  
-![Login Screen](./Login.jpeg)
-
-### 🏠 Home Screen  
-![Home Screen](./Home.jpeg)
-
-### 📦 Product Details Screen  
-![Product Details Screen](./ProductDetails.jpeg)
 
 ---
 
@@ -64,6 +55,11 @@ Start the Expo development server:
 ```bash
 expo start
 ```
+## 🎥 Demo
+
+Watch the app in action:  
+🔗 [Watch the video here](https://youtube.com/shorts/rmR4Y8MJyWs?si=tD6d0_NBONvDH16N)
+
 
 ---
 
@@ -79,10 +75,6 @@ Scan this QR code to open the app instantly:
 
 ---
 
-## 🎥 Demo
-
-Watch the app in action:  
-🔗 [Watch the video here](https://youtube.com/shorts/89yOQx1uMNA)
 
 ---
 
@@ -110,19 +102,14 @@ ecommerce-app/
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for details.
 
-> **Note**: All assets and screenshots used are for demo purposes only.
+> 
 
 ---
 
 ## 📥 Download the Project
 
 Prefer downloading directly?  
-[Click here to download the zipped project](https://Tanveer-hub570/My-Portfolio/A2-API-Integration/ecommerce-app/archive/refs/heads/main.zip)
+[Click here to download the zipped project](https://haad1370/Portfolio-Haad/A2-API-Integration/ecommerce-app/archive/refs/heads/main.zip)
 
 ---
 
-## 🙋‍♂️ Need Help?
-
-If you have any questions or need help setting up the project, feel free to [open an issue](https://github.com/Tanveer-hub570/My-Portfolio/tree/main/A2%20API%20Integration/E-Commerce/issues) or message me directly!
-
----
