@@ -66,7 +66,7 @@ expo start
 
 | Login | List | Detail | QR Code |
 |-------|------|--------|---------|
-| ![login](./frontend/assets/login.jpeg) | ![list](./frontend/assets/list.jpeg) | ![detail](./frontend/assets/detail.jpeg) | ![barcode](./frontend/assets/brcode.png) |
+| ![login](./frontend/assets/login.jpg) | ![list](./frontend/assets/list.jpg) | ![detail](./frontend/assets/detail.jpg) | ![barcode](./frontend/assets/brcode.png) |
 
 ---
 
