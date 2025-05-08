@@ -36,12 +36,3 @@ npx expo start
 🎨 Custom Figma Design
 
 💅 Styled with reusable components
-
-🙋‍♂️ About the Author
-Made with ❤️ by Tanveer Mustafa
-🔗 GitHub Profile
-
-📃 License
-This UI is shared for learning & design purposes only.
-Feel free to use the layout to build your own features or backend integration.
-
