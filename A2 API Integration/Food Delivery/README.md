@@ -16,16 +16,6 @@ A sleek and responsive **Food Delivery App** built with **React Native** using *
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Screen  
-![Home Screen](./Home.jpeg)
-
-### 📦 Order Details Screen  
-![Order Details](./orderdetails.jpeg)
-
-### 📜 Order History Screen  
-![Order History](./orderhistory.jpeg)
 
 ---
 
