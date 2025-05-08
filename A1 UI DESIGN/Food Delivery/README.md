@@ -23,10 +23,7 @@
 
 Note: This is a UI-only app, so backend and state logic are not implemented.
 
-🚀 Run It Locally
-git clone https://github.com/Tanveer-hub570/My-Portfolio.git
-cd My-Portfolio/A1%20UI%20DESIGN/Food%20Delivery
-npm install
+
 npx expo start
 🛠️ Tech Stack
 ⚛️ React Native
