@@ -70,7 +70,7 @@ Scan to launch instantly:
 ## 🎥 Demo
 
 Watch a short demo of the app in action:  
-🔗 [Watch the video here](https://youtube.com/shorts/t0lfiE_IbWY?feature=share)
+🔗 [Watch the video here](https://youtube.com/shorts/NaYZv2jqhmA?si=m3Htmy-B79BtgG2c)
 
 ---
 
