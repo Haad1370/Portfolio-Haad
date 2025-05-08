@@ -1,6 +1,5 @@
 # 💰 Expense Tracker App
 
-A beautifully designed **Expense Tracker mobile app** built with **React Native** using **Expo**. This app allows users to monitor income, track expenses, and view insightful reports in a sleek and simple UI. Perfect as a starting point for building personal finance or budgeting apps.
 
 ![React Native](https://img.shields.io/badge/React_Native-v0.73.0-blue.svg?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-49.0.0-black.svg?style=flat&logo=expo)
@@ -17,19 +16,7 @@ A beautifully designed **Expense Tracker mobile app** built with **React Native*
 
 ---
 
-## 📸 Screenshots
 
-### 📊 Dashboard Screen  
-![Dashboard Screen](./Dashboard.jpeg)
-
-### ➕ Income Screen  
-![Income Screen](./Income.jpeg)
-
-### 💸 Transaction Screen  
-![Transaction Screen](./Transaction.jpeg)
-
-### 📈 Report Screen  
-![Report Screen](./Report.jpeg)
 
 ---
 ## 🎥 Demo
