@@ -25,25 +25,3 @@
 ├── screens/
 │   ├── Dashboard.js
 │   ├── AddTransaction.js
-│   └── Reports.js
-🎨 Figma Design
-This project UI is based on a Figma prototype by Tanveer Mustafa.
-🖌️ View Figma Design →
-
-git clone https://github.com/Tanveer-hub570/expense-tracker-ui.git
-cd expense-tracker-ui
-npm install
-npx expo start
-🛠️ Built With
-⚛️ React Native
-
-💨 Expo
-
-🎨 Figma (UI Design Source)
-
-💅 Custom Components
-
-👨‍💻 Author
-Designed & Developed by Tanveer Mustafa
-🔗 GitHub • 🎨 Figma
-
