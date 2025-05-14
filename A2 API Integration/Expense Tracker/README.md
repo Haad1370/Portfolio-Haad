@@ -11,7 +11,7 @@
 ## Demo
 
 Watch the app in action:  
-🔗 [Watch the video here](https://youtube.com/shorts/ldKVGNKhALw?feature=share)
+🔗 [Watch the video here](https://youtu.be/DSfCUPuHvZs?si=DwBmKDqmizgy5wTV)
 
 ---
 
