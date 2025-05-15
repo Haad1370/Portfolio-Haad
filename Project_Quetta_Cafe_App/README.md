@@ -3,7 +3,7 @@
 An online ordering app for Quetta Cafe.
 
 ## 📹 Demo Video
-Scan the QR code below to watch the video or [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Scan the QR code below to watch the video or [click here](https://youtu.be/hBCQJO-wbVY?si=TdJ78AwGON9KBiD0).
 
 ![YouTube Video QR Code](projectqr.png)
 
