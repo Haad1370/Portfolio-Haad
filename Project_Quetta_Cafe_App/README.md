@@ -20,3 +20,7 @@ Scan the QR code below to watch the video or [click here](https://www.youtube.co
 | Cart | Checkout |
 |------|----------|
 | ![Cart](screenshots/cart.jpeg) | ![Checkout](screenshots/checkout.jpeg) |
+
+## 📹 Download the apk file scan the qr
+
+![YouTube Video QR Code](projectqr.png)
